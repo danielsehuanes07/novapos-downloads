@@ -6,10 +6,11 @@ Descargas oficiales del agente de impresión para **Windows de 64 bits**. El age
 
 | Canal | Versión | Normal | XXL |
 | --- | --- | --- | --- |
-| **Estable** · para operación diaria | [0.1.17](https://github.com/danielsehuanes07/novapos-downloads/releases/tag/print-agent-v0.1.17) | [Descargar Normal](https://github.com/danielsehuanes07/novapos-downloads/releases/download/print-agent-v0.1.17/novapos-print-agent-normal.exe) | [Descargar XXL](https://github.com/danielsehuanes07/novapos-downloads/releases/download/print-agent-v0.1.17/novapos-print-agent-xxl.exe) |
-| **Prueba** · para validar en un negocio demo | [0.1.18](https://github.com/danielsehuanes07/novapos-downloads/releases/tag/print-agent-v0.1.18) | [Descargar Normal](https://github.com/danielsehuanes07/novapos-downloads/releases/download/print-agent-v0.1.18/novapos-print-agent-normal.exe) | [Descargar XXL](https://github.com/danielsehuanes07/novapos-downloads/releases/download/print-agent-v0.1.18/novapos-print-agent-xxl.exe) |
+| **Estable** · para operación diaria | [0.1.18](https://github.com/danielsehuanes07/novapos-downloads/releases/tag/print-agent-v0.1.18) | [Descargar Normal](https://github.com/danielsehuanes07/novapos-downloads/releases/download/print-agent-v0.1.18/novapos-print-agent-normal.exe) | [Descargar XXL](https://github.com/danielsehuanes07/novapos-downloads/releases/download/print-agent-v0.1.18/novapos-print-agent-xxl.exe) |
 
 **Normal** usa la presentación habitual de las comandas. **XXL** muestra texto más grande en las comandas de preparación. Elige la variante que ya usas al actualizar.
+
+Cuando hay una versión de prueba disponible, se indica en esta tabla.
 
 La versión estable también está en **Configuración → Impresoras y dispositivos** dentro de [NovaPOS](https://www.novapos.co).
 
@@ -25,3 +26,5 @@ En un equipo de pruebas, comprueba Cocina, Barra y precuenta. Si usas el inicio 
 ## Notas e historial
 
 Consulta los cambios de cada versión, sus ejecutables y versiones anteriores en [Releases](https://github.com/danielsehuanes07/novapos-downloads/releases).
+
+La [versión anterior 0.1.17](https://github.com/danielsehuanes07/novapos-downloads/releases/tag/print-agent-v0.1.17) está disponible en el historial.
